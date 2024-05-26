@@ -6130,33 +6130,35 @@
     ]
   },
   "packageFolders": {
-    "/Users/ahmadhfr/.nuget/packages/": {}
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Test/Test.csproj",
+      "projectUniqueName": "F:\\Projectes\\Design-Patterns\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Test/Test.csproj",
-      "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-      "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Test/obj/",
+      "projectPath": "F:\\Projectes\\Design-Patterns\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+      "outputPath": "F:\\Projectes\\Design-Patterns\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "http://192.168.2.164/nugetserver/nuget": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://192.168.2.164/NugetServer/Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Decorator/Decorator.csproj": {
-              "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Decorator/Decorator.csproj"
+            "F:\\Projectes\\Design-Patterns\\Decorator\\Decorator.csproj": {
+              "projectPath": "F:\\Projectes\\Design-Patterns\\Decorator\\Decorator.csproj"
             }
           }
         }
@@ -6165,6 +6167,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6208,7 +6215,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -6217,7 +6224,7 @@
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
     }
   ]
 }

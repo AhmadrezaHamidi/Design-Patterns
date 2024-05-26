@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ix1gjUVBJSu67Mp8iOmZ/xCSLCQs+NLNcuQJdhbE6s0UMbC3wCXfpSSLTjy0LiNZrGchrVfaMhwV9TjwBb8oKw==",
+  "dgSpecHash": "DC9oTt/Xbf84g8AugN43tSPCo+bGZVAUIw8hMGlKyXVg2gv55Bc7fduMFl165w/vcvb/FNjdqwTnvOLM5428jg==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Decorator/Composite/Composite.csproj",
+  "projectFilePath": "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
     }
   ]
 }
