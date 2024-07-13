@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Descorator", "AhmadTests\Descorator.csproj", "{0B2A7F20-3B46-47C5-92F8-844278422D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatterns", "CompositePatterns\CompositePatterns.csproj", "{474171A8-348A-4765-8AD1-242F3F89AD35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2A7F20-3B46-47C5-92F8-844278422D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2A7F20-3B46-47C5-92F8-844278422D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2A7F20-3B46-47C5-92F8-844278422D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2A7F20-3B46-47C5-92F8-844278422D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474171A8-348A-4765-8AD1-242F3F89AD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474171A8-348A-4765-8AD1-242F3F89AD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474171A8-348A-4765-8AD1-242F3F89AD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474171A8-348A-4765-8AD1-242F3F89AD35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35097B11-F7AB-4F28-899E-D5F34B257B37}
+	EndGlobalSection
+EndGlobal
