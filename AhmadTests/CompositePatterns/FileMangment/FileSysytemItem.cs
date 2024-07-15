@@ -42,6 +42,6 @@ public class TestProj
         var direcory = new Directory(files, files1);
         _Directory = new Directory(files2, direcory);
     }
-    public long GetSizes() => _Directory.Size();
+    public long GetSizes() => _Directory.Size(); 
 }
 

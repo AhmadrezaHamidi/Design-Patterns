@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\a.hamidi\\.nuget\\packages\\": {}
+    "/Users/ahmadhfr/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\AhmadTests\\AhmadTests\\Descorator.csproj",
+      "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/AhmadTests/Descorator.csproj",
       "projectName": "Descorator",
-      "projectPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\AhmadTests\\AhmadTests\\Descorator.csproj",
-      "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\AhmadTests\\AhmadTests\\obj\\",
+      "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/AhmadTests/Descorator.csproj",
+      "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
+      "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/AhmadTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://192.168.2.164/NugetServer/Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
