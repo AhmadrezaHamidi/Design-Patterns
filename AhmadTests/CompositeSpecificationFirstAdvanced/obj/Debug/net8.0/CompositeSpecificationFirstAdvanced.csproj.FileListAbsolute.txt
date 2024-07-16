@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/bin/Debug/net8.0/CompositeSpecificationFirstAdvanced
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/bin/Debug/net8.0/CompositeSpecificationFirstAdvanced.deps.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/bin/Debug/net8.0/CompositeSpecificationFirstAdvanced.runtimeconfig.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/bin/Debug/net8.0/CompositeSpecificationFirstAdvanced.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/bin/Debug/net8.0/CompositeSpecificationFirstAdvanced.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.AssemblyInfo.cs
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.sourcelink.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/refint/CompositeSpecificationFirstAdvanced.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/CompositeSpecificationFirstAdvanced.genruntimeconfig.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/Debug/net8.0/ref/CompositeSpecificationFirstAdvanced.dll

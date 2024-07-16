@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj": {}
+    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/CompositeSpecificationFirstAdvanced.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj": {
+    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/CompositeSpecificationFirstAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj",
-        "projectName": "CompositeSpecification",
-        "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj",
+        "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/CompositeSpecificationFirstAdvanced.csproj",
+        "projectName": "CompositeSpecificationFirstAdvanced",
+        "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/CompositeSpecificationFirstAdvanced.csproj",
         "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/obj/",
+        "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

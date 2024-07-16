@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatterns", "Compos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSpecification", "CompositeSpecification\CompositeSpecification.csproj", "{9F961225-42E1-4D4A-841C-94A28F375131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSpecificationFirstAdvanced", "CompositeSpecificationFirstAdvanced\CompositeSpecificationFirstAdvanced.csproj", "{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F961225-42E1-4D4A-841C-94A28F375131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F961225-42E1-4D4A-841C-94A28F375131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F961225-42E1-4D4A-841C-94A28F375131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
