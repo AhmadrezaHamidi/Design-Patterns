@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SopsB1IyWY/ppm/6FpHlIpQvlOMwB+Se/roCfD8lk150oT9pMUJuHR0gzlXRz/Mj1OjuidGvVZIp1Nia7/KBg==",
+  "success": false,
+  "projectFilePath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilderTest\\ReportBuilderTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'NUnit.Analyzers' from remote source 'https://192.168.2.164/NugetServer/Nuget/FindPackagesById()?id='NUnit.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "NUnit.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'NUnit3TestAdapter' from remote source 'https://192.168.2.164/NugetServer/Nuget/FindPackagesById()?id='NUnit3TestAdapter'&semVerLevel=2.0.0'.",
+      "libraryId": "NUnit3TestAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'NUnit' from remote source 'https://192.168.2.164/NugetServer/Nuget/FindPackagesById()?id='NUnit'&semVerLevel=2.0.0'.",
+      "libraryId": "NUnit"
+    }
+  ]
+}

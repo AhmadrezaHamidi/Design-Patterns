@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/ahmadhfr/.nuget/packages/": {}
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/CompositeSpecificationFirstAdvanced.csproj",
+      "projectUniqueName": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecificationFirstAdvanced\\CompositeSpecificationFirstAdvanced.csproj",
       "projectName": "CompositeSpecificationFirstAdvanced",
-      "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/CompositeSpecificationFirstAdvanced.csproj",
-      "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-      "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecificationFirstAdvanced/obj/",
+      "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecificationFirstAdvanced\\CompositeSpecificationFirstAdvanced.csproj",
+      "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+      "outputPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecificationFirstAdvanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://192.168.2.164/NugetServer/Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

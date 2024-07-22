@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "NUnit >= 3.14.0",
+      "NUnit.Analyzers >= 3.9.0",
+      "NUnit3TestAdapter >= 4.5.0",
+      "coverlet.collector >= 6.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilderTest\\ReportBuilderTest.csproj",
+      "projectName": "ReportBuilderTest",
+      "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilderTest\\ReportBuilderTest.csproj",
+      "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+      "outputPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilderTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://192.168.2.164/NugetServer/Nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\BuilderTest\\BuilderTest.csproj": {
+              "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\BuilderTest\\BuilderTest.csproj"
+            },
+            "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilder\\ReportBuilder.csproj": {
+              "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilder\\ReportBuilder.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[17.8.0, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.14.0, )"
+          },
+          "NUnit.Analyzers": {
+            "target": "Package",
+            "version": "[3.9.0, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          },
+          "coverlet.collector": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'NUnit.Analyzers' from remote source 'https://192.168.2.164/NugetServer/Nuget/FindPackagesById()?id='NUnit.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "NUnit.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'NUnit3TestAdapter' from remote source 'https://192.168.2.164/NugetServer/Nuget/FindPackagesById()?id='NUnit3TestAdapter'&semVerLevel=2.0.0'.",
+      "libraryId": "NUnit3TestAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'NUnit' from remote source 'https://192.168.2.164/NugetServer/Nuget/FindPackagesById()?id='NUnit'&semVerLevel=2.0.0'.",
+      "libraryId": "NUnit"
+    }
+  ]
+}

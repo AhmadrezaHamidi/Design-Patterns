@@ -5,11 +5,21 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Descorator", "AhmadTests\Descorator.csproj", "{0B2A7F20-3B46-47C5-92F8-844278422D89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatterns", "CompositePatterns\CompositePatterns.csproj", "{474171A8-348A-4765-8AD1-242F3F89AD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePatterns", "CompositePatterns\CompositePatterns.csproj", "{474171A8-348A-4765-8AD1-242F3F89AD35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSpecification", "CompositeSpecification\CompositeSpecification.csproj", "{9F961225-42E1-4D4A-841C-94A28F375131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeSpecification", "CompositeSpecification\CompositeSpecification.csproj", "{9F961225-42E1-4D4A-841C-94A28F375131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSpecificationFirstAdvanced", "CompositeSpecificationFirstAdvanced\CompositeSpecificationFirstAdvanced.csproj", "{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeSpecificationFirstAdvanced", "CompositeSpecificationFirstAdvanced\CompositeSpecificationFirstAdvanced.csproj", "{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{DFBC8064-121D-4528-8473-467FF219E647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTest", "BuilderTest\BuilderTest.csproj", "{E94A8387-4AE3-40EA-86B9-101941CFCDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportBuilder", "ReportBuilder\ReportBuilder.csproj", "{962B8244-3D38-411F-8BF4-3499AFB59F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportBuilderTest", "ReportBuilderTest\ReportBuilderTest.csproj", "{7080122D-B779-4854-80A5-615010B6B88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposrtBuilderTEst2", "ReposrtBuilderTEst2\ReposrtBuilderTEst2.csproj", "{0583EA61-B9BD-428C-9CD7-9A28BD911933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBC8064-121D-4528-8473-467FF219E647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBC8064-121D-4528-8473-467FF219E647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBC8064-121D-4528-8473-467FF219E647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBC8064-121D-4528-8473-467FF219E647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94A8387-4AE3-40EA-86B9-101941CFCDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94A8387-4AE3-40EA-86B9-101941CFCDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94A8387-4AE3-40EA-86B9-101941CFCDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94A8387-4AE3-40EA-86B9-101941CFCDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962B8244-3D38-411F-8BF4-3499AFB59F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962B8244-3D38-411F-8BF4-3499AFB59F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962B8244-3D38-411F-8BF4-3499AFB59F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962B8244-3D38-411F-8BF4-3499AFB59F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7080122D-B779-4854-80A5-615010B6B88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7080122D-B779-4854-80A5-615010B6B88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7080122D-B779-4854-80A5-615010B6B88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7080122D-B779-4854-80A5-615010B6B88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

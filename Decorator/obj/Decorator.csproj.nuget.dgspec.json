@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projectes\\Design-Patterns\\Decorator\\Decorator.csproj": {}
+    "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Decorator.csproj": {}
   },
   "projects": {
-    "F:\\Projectes\\Design-Patterns\\Decorator\\Decorator.csproj": {
+    "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projectes\\Design-Patterns\\Decorator\\Decorator.csproj",
+        "projectUniqueName": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Decorator.csproj",
         "projectName": "Decorator",
-        "projectPath": "F:\\Projectes\\Design-Patterns\\Decorator\\Decorator.csproj",
+        "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Decorator.csproj",
         "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
-        "outputPath": "F:\\Projectes\\Design-Patterns\\Decorator\\obj\\",
+        "outputPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://192.168.2.164/NugetServer/Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

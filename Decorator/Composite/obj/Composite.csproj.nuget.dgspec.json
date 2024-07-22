@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\Composite.csproj": {}
+    "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Composite\\Composite.csproj": {}
   },
   "projects": {
-    "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\Composite.csproj": {
+    "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Composite\\Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
+        "projectUniqueName": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
         "projectName": "Composite",
-        "projectPath": "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
+        "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
         "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
-        "outputPath": "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\obj\\",
+        "outputPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Composite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://192.168.2.164/NugetServer/Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

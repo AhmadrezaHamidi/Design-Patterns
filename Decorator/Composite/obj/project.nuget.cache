@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DC9oTt/Xbf84g8AugN43tSPCo+bGZVAUIw8hMGlKyXVg2gv55Bc7fduMFl165w/vcvb/FNjdqwTnvOLM5428jg==",
+  "dgSpecHash": "EEC0Pf55xhAA6ZOube1eyRxHNyHZq0Z/paKtV37dATr+7liPrhqzbS03RDNHvx2numVSyvpRSXbKlufpp32k9w==",
   "success": true,
-  "projectFilePath": "F:\\Projectes\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
+  "projectFilePath": "F:\\work\\GithubSampleCode\\Design-Patterns\\Decorator\\Composite\\Composite.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

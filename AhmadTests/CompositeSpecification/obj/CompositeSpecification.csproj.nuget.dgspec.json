@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj": {}
+    "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\CompositeSpecification.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj": {
+    "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\CompositeSpecification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj",
+        "projectUniqueName": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\CompositeSpecification.csproj",
         "projectName": "CompositeSpecification",
-        "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/CompositeSpecification.csproj",
-        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/Design-Patterns/Design-Patterns/AhmadTests/CompositeSpecification/obj/",
+        "projectPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\CompositeSpecification.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://192.168.2.164/NugetServer/Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
