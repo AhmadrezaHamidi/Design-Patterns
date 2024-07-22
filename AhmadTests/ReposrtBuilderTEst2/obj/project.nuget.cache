@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FrJUS/AzTNHzrQS4anCmLCLD6HrXldmqN117CVdEOZjmkdWhUiDAqCq85dR3O8ugCdZbZ+zQ0KyqVZim3+H+6g==",
+  "dgSpecHash": "M10Qf7GOlQ4kDpuWfBJb/VNUy5e85Xmo46lDys8GmH71zYc6HgeCI+H3T+qhn9USAgTXW163JTG5RKFUKNgSvQ==",
   "success": true,
   "projectFilePath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReposrtBuilderTEst2\\ReposrtBuilderTEst2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

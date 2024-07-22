@@ -1,0 +1,15 @@
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+F:\work\GithubSampleCode\Design-Patterns\LeetCode\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
