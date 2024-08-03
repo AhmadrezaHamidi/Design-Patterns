@@ -109,8 +109,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -119,7 +127,7 @@
               "RelativeDocumentMoniker": "Organization\\Domian\\OrganizationComponent.cs",
               "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Organization\\Domian\\OrganizationComponent.cs",
               "RelativeToolTip": "Organization\\Domian\\OrganizationComponent.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA2wDYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T09:06:47.101Z",
               "EditorCaption": ""
@@ -134,8 +142,7 @@
               "RelativeToolTip": "Organization\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T09:06:33.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T09:06:33.108Z"
             },
             {
               "$type": "Document",
@@ -147,29 +154,19 @@
               "RelativeToolTip": "restoran\\Domian\\Price.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAmwCcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T08:57:44.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T08:57:44.801Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "restoran",
+              "Title": "restoran.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\restoran.csproj",
               "RelativeDocumentMoniker": "restoran\\restoran.csproj",
               "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\restoran.csproj",
               "RelativeToolTip": "restoran\\restoran.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T08:56:21.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2024-08-03T08:56:21.917Z"
             },
             {
               "$type": "Document",
@@ -181,8 +178,7 @@
               "RelativeToolTip": "restoran\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T08:53:26.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T08:53:26.972Z"
             },
             {
               "$type": "Document",
@@ -192,8 +188,7 @@
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AQIAAPIAAAAAAAAAAAAmwAkBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-22T10:21:06.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:21:06.073Z"
             },
             {
               "$type": "Document",
@@ -205,8 +200,7 @@
               "RelativeToolTip": "ReportBuilderTest\\ReportBuilderTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T10:20:29.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:20:29.944Z"
             },
             {
               "$type": "Document",
@@ -218,8 +212,7 @@
               "RelativeToolTip": "ReposrtBuilderTEst2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:18:28.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:18:28.729Z"
             },
             {
               "$type": "Document",
@@ -231,8 +224,7 @@
               "RelativeToolTip": "ReportBuilder\\Src\\Directores\\ProfitReportGenerator.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:02:52.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:02:52.172Z"
             },
             {
               "$type": "Document",
@@ -244,8 +236,7 @@
               "RelativeToolTip": "ReportBuilder\\Src\\Builders\\IRepostBuilder.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAIA7wBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:26:03.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:26:03.523Z"
             },
             {
               "$type": "Document",
@@ -257,8 +248,7 @@
               "RelativeToolTip": "ReportBuilder\\Src\\Domin\\Document.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:20:20.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:20:20.816Z"
             },
             {
               "$type": "Document",
@@ -270,8 +260,7 @@
               "RelativeToolTip": "Builder\\Productes\\Maze.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:15:31.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:15:31.477Z"
             },
             {
               "$type": "Document",
@@ -283,8 +272,7 @@
               "RelativeToolTip": "Builder\\Productes\\CountingMaze.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:15:24.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:15:24.597Z"
             },
             {
               "$type": "Document",
@@ -296,8 +284,7 @@
               "RelativeToolTip": "Builder\\Builder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T09:13:56.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:13:56.306Z"
             },
             {
               "$type": "Document",
@@ -309,8 +296,7 @@
               "RelativeToolTip": "Builder\\Builders\\CountingMazeBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:12:38.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T09:12:38.318Z"
             },
             {
               "$type": "Document",
@@ -322,8 +308,7 @@
               "RelativeToolTip": "Builder\\MazeDirector.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:45:40.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:45:40.9Z"
             },
             {
               "$type": "Document",
@@ -335,8 +320,7 @@
               "RelativeToolTip": "CompositeSpecificationFirstAdvanced\\Structer\\ISpecification.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:18.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:20:18.482Z"
             },
             {
               "$type": "Document",
@@ -348,8 +332,7 @@
               "RelativeToolTip": "CompositeSpecificationFirstAdvanced\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:17.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:20:17.13Z"
             },
             {
               "$type": "Document",
@@ -361,8 +344,7 @@
               "RelativeToolTip": "CompositeSpecification\\Structer\\ISpecification.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAIwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:04.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:20:04.894Z"
             },
             {
               "$type": "Document",
@@ -374,8 +356,7 @@
               "RelativeToolTip": "CompositeSpecification\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:02.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:20:02.571Z"
             },
             {
               "$type": "Document",
@@ -387,8 +368,7 @@
               "RelativeToolTip": "CompositePatterns\\FileMangment\\FileSysytemItem.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:17:13.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T07:17:13.126Z"
             },
             {
               "$type": "Document",
@@ -400,8 +380,7 @@
               "RelativeToolTip": "AhmadTests\\File\\Directory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:21:31.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T10:21:31.796Z"
             },
             {
               "$type": "Document",
@@ -413,8 +392,7 @@
               "RelativeToolTip": "AhmadTests\\File\\File.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:21:42.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T10:21:42.662Z"
             },
             {
               "$type": "Document",
@@ -426,8 +404,7 @@
               "RelativeToolTip": "CompositePatterns\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:20:13.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T10:20:13.97Z"
             },
             {
               "$type": "Document",
@@ -439,8 +416,7 @@
               "RelativeToolTip": "AhmadTests\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:29:48.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T04:29:48.152Z"
             }
           ]
         },

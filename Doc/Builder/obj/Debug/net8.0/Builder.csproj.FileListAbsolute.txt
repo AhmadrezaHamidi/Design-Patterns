@@ -1,0 +1,15 @@
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\bin\Debug\net8.0\Builder.exe
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\bin\Debug\net8.0\Builder.deps.json
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\bin\Debug\net8.0\Builder.dll
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\bin\Debug\net8.0\Builder.pdb
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.sourcelink.json
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.dll
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\refint\Builder.dll
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.pdb
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\Builder\obj\Debug\net8.0\ref\Builder.dll

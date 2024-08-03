@@ -1,0 +1,15 @@
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\bin\Debug\net8.0\MakeComputer.exe
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\bin\Debug\net8.0\MakeComputer.deps.json
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\bin\Debug\net8.0\MakeComputer.runtimeconfig.json
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\bin\Debug\net8.0\MakeComputer.dll
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\bin\Debug\net8.0\MakeComputer.pdb
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.AssemblyInfoInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.AssemblyInfo.cs
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.csproj.CoreCompileInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.sourcelink.json
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.dll
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\refint\MakeComputer.dll
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.pdb
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\MakeComputer.genruntimeconfig.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\MakeComputer\obj\Debug\net8.0\ref\MakeComputer.dll
