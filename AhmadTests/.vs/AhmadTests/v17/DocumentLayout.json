@@ -3,15 +3,35 @@
   "WorkspaceRootPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}|Organization\\Organization.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\organization\\domian\\organizationcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}|Organization\\Organization.csproj|solutionrelative:organization\\domian\\organizationcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}|restoran\\restoran.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\restoran\\domian\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}|restoran\\restoran.csproj|solutionrelative:restoran\\domian\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}|Organization\\Organization.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\organization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}|Organization\\Organization.csproj|solutionrelative:organization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}|restoran\\restoran.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}|restoran\\restoran.csproj|solutionrelative:restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}|restoran\\restoran.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\restoran\\restoran.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}|restoran\\restoran.csproj|solutionrelative:restoran\\restoran.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0583EA61-B9BD-428C-9CD7-9A28BD911933}|ReposrtBuilderTEst2\\ReposrtBuilderTEst2.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\reposrtbuildertest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0583EA61-B9BD-428C-9CD7-9A28BD911933}|ReposrtBuilderTEst2\\ReposrtBuilderTEst2.csproj|solutionrelative:reposrtbuildertest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilderTest\\ReportBuilderTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReportBuilderTest\\ReportBuilderTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0583EA61-B9BD-428C-9CD7-9A28BD911933}|ReposrtBuilderTEst2\\ReposrtBuilderTEst2.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\reposrtbuildertest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0583EA61-B9BD-428C-9CD7-9A28BD911933}|ReposrtBuilderTEst2\\ReposrtBuilderTEst2.csproj|solutionrelative:reposrtbuildertest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{962B8244-3D38-411F-8BF4-3499AFB59F11}|ReportBuilder\\ReportBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\ahmadtests\\reportbuilder\\src\\directores\\profitreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,8 +109,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizationComponent.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Organization\\Domian\\OrganizationComponent.cs",
+              "RelativeDocumentMoniker": "Organization\\Domian\\OrganizationComponent.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Organization\\Domian\\OrganizationComponent.cs",
+              "RelativeToolTip": "Organization\\Domian\\OrganizationComponent.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA2wDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:06:47.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Organization\\Program.cs",
+              "RelativeDocumentMoniker": "Organization\\Program.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Organization\\Program.cs",
+              "RelativeToolTip": "Organization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:06:33.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Price.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\Domian\\Price.cs",
+              "RelativeDocumentMoniker": "restoran\\Domian\\Price.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\Domian\\Price.cs",
+              "RelativeToolTip": "restoran\\Domian\\Price.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:57:44.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "restoran",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\restoran.csproj",
+              "RelativeDocumentMoniker": "restoran\\restoran.csproj",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\restoran.csproj",
+              "RelativeToolTip": "restoran\\restoran.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T08:56:21.917Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -101,7 +173,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\Program.cs",
+              "RelativeDocumentMoniker": "restoran\\Program.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\restoran\\Program.cs",
+              "RelativeToolTip": "restoran\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:53:26.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -112,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ReportBuilderTest.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilderTest\\ReportBuilderTest.csproj",
               "RelativeDocumentMoniker": "ReportBuilderTest\\ReportBuilderTest.csproj",
@@ -120,11 +205,12 @@
               "RelativeToolTip": "ReportBuilderTest\\ReportBuilderTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T10:20:29.944Z"
+              "WhenOpened": "2024-07-22T10:20:29.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReposrtBuilderTEst2\\Program.cs",
               "RelativeDocumentMoniker": "ReposrtBuilderTEst2\\Program.cs",
@@ -132,11 +218,12 @@
               "RelativeToolTip": "ReposrtBuilderTEst2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:18:28.729Z"
+              "WhenOpened": "2024-07-22T10:18:28.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ProfitReportGenerator.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilder\\Src\\Directores\\ProfitReportGenerator.cs",
               "RelativeDocumentMoniker": "ReportBuilder\\Src\\Directores\\ProfitReportGenerator.cs",
@@ -144,11 +231,12 @@
               "RelativeToolTip": "ReportBuilder\\Src\\Directores\\ProfitReportGenerator.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:02:52.172Z"
+              "WhenOpened": "2024-07-22T10:02:52.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "IRepostBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilder\\Src\\Builders\\IRepostBuilder.cs",
               "RelativeDocumentMoniker": "ReportBuilder\\Src\\Builders\\IRepostBuilder.cs",
@@ -156,11 +244,12 @@
               "RelativeToolTip": "ReportBuilder\\Src\\Builders\\IRepostBuilder.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAIA7wBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:26:03.523Z"
+              "WhenOpened": "2024-07-22T09:26:03.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Document.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\ReportBuilder\\Src\\Domin\\Document.cs",
               "RelativeDocumentMoniker": "ReportBuilder\\Src\\Domin\\Document.cs",
@@ -168,11 +257,12 @@
               "RelativeToolTip": "ReportBuilder\\Src\\Domin\\Document.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:20:20.816Z"
+              "WhenOpened": "2024-07-22T09:20:20.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Maze.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Builder\\Productes\\Maze.cs",
               "RelativeDocumentMoniker": "Builder\\Productes\\Maze.cs",
@@ -180,11 +270,12 @@
               "RelativeToolTip": "Builder\\Productes\\Maze.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:15:31.477Z"
+              "WhenOpened": "2024-07-22T09:15:31.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "CountingMaze.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Builder\\Productes\\CountingMaze.cs",
               "RelativeDocumentMoniker": "Builder\\Productes\\CountingMaze.cs",
@@ -192,11 +283,12 @@
               "RelativeToolTip": "Builder\\Productes\\CountingMaze.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:15:24.597Z"
+              "WhenOpened": "2024-07-22T09:15:24.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Builder.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Builder\\Builder.csproj",
               "RelativeDocumentMoniker": "Builder\\Builder.csproj",
@@ -209,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CountingMazeBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Builder\\Builders\\CountingMazeBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\Builders\\CountingMazeBuilder.cs",
@@ -217,11 +309,12 @@
               "RelativeToolTip": "Builder\\Builders\\CountingMazeBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:12:38.318Z"
+              "WhenOpened": "2024-07-22T09:12:38.318Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MazeDirector.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\Builder\\MazeDirector.cs",
               "RelativeDocumentMoniker": "Builder\\MazeDirector.cs",
@@ -229,11 +322,12 @@
               "RelativeToolTip": "Builder\\MazeDirector.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:45:40.9Z"
+              "WhenOpened": "2024-07-22T07:45:40.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecificationFirstAdvanced\\Structer\\ISpecification.cs",
               "RelativeDocumentMoniker": "CompositeSpecificationFirstAdvanced\\Structer\\ISpecification.cs",
@@ -241,11 +335,12 @@
               "RelativeToolTip": "CompositeSpecificationFirstAdvanced\\Structer\\ISpecification.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:18.482Z"
+              "WhenOpened": "2024-07-22T07:20:18.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecificationFirstAdvanced\\Program.cs",
               "RelativeDocumentMoniker": "CompositeSpecificationFirstAdvanced\\Program.cs",
@@ -253,11 +348,12 @@
               "RelativeToolTip": "CompositeSpecificationFirstAdvanced\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:17.13Z"
+              "WhenOpened": "2024-07-22T07:20:17.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\Structer\\ISpecification.cs",
               "RelativeDocumentMoniker": "CompositeSpecification\\Structer\\ISpecification.cs",
@@ -265,11 +361,12 @@
               "RelativeToolTip": "CompositeSpecification\\Structer\\ISpecification.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAIwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:04.894Z"
+              "WhenOpened": "2024-07-22T07:20:04.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositeSpecification\\Program.cs",
               "RelativeDocumentMoniker": "CompositeSpecification\\Program.cs",
@@ -277,11 +374,12 @@
               "RelativeToolTip": "CompositeSpecification\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:20:02.571Z"
+              "WhenOpened": "2024-07-22T07:20:02.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "FileSysytemItem.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositePatterns\\FileMangment\\FileSysytemItem.cs",
               "RelativeDocumentMoniker": "CompositePatterns\\FileMangment\\FileSysytemItem.cs",
@@ -289,11 +387,12 @@
               "RelativeToolTip": "CompositePatterns\\FileMangment\\FileSysytemItem.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T07:17:13.126Z"
+              "WhenOpened": "2024-07-22T07:17:13.126Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Directory.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\AhmadTests\\File\\Directory.cs",
               "RelativeDocumentMoniker": "AhmadTests\\File\\Directory.cs",
@@ -301,11 +400,12 @@
               "RelativeToolTip": "AhmadTests\\File\\Directory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:21:31.796Z"
+              "WhenOpened": "2024-07-13T10:21:31.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "File.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\AhmadTests\\File\\File.cs",
               "RelativeDocumentMoniker": "AhmadTests\\File\\File.cs",
@@ -313,11 +413,12 @@
               "RelativeToolTip": "AhmadTests\\File\\File.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:21:42.662Z"
+              "WhenOpened": "2024-07-13T10:21:42.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\CompositePatterns\\Program.cs",
               "RelativeDocumentMoniker": "CompositePatterns\\Program.cs",
@@ -325,11 +426,12 @@
               "RelativeToolTip": "CompositePatterns\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:20:13.97Z"
+              "WhenOpened": "2024-07-13T10:20:13.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\AhmadTests\\AhmadTests\\Class1.cs",
               "RelativeDocumentMoniker": "AhmadTests\\Class1.cs",
@@ -337,7 +439,8 @@
               "RelativeToolTip": "AhmadTests\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:29:48.152Z"
+              "WhenOpened": "2024-07-13T04:29:48.152Z",
+              "EditorCaption": ""
             }
           ]
         },

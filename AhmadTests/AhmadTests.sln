@@ -11,15 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeSpecification", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeSpecificationFirstAdvanced", "CompositeSpecificationFirstAdvanced\CompositeSpecificationFirstAdvanced.csproj", "{DD3DF6DC-F997-4CF8-9EC0-D36470EA669F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{DFBC8064-121D-4528-8473-467FF219E647}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{DFBC8064-121D-4528-8473-467FF219E647}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTest", "BuilderTest\BuilderTest.csproj", "{E94A8387-4AE3-40EA-86B9-101941CFCDBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportBuilder", "ReportBuilder\ReportBuilder.csproj", "{962B8244-3D38-411F-8BF4-3499AFB59F11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportBuilder", "ReportBuilder\ReportBuilder.csproj", "{962B8244-3D38-411F-8BF4-3499AFB59F11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportBuilderTest", "ReportBuilderTest\ReportBuilderTest.csproj", "{7080122D-B779-4854-80A5-615010B6B88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReposrtBuilderTEst2", "ReposrtBuilderTEst2\ReposrtBuilderTEst2.csproj", "{0583EA61-B9BD-428C-9CD7-9A28BD911933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReposrtBuilderTEst2", "ReposrtBuilderTEst2\ReposrtBuilderTEst2.csproj", "{0583EA61-B9BD-428C-9CD7-9A28BD911933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restoran", "restoran\restoran.csproj", "{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organization", "Organization\Organization.csproj", "{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0583EA61-B9BD-428C-9CD7-9A28BD911933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D6A86E-8A2B-4E8B-AB31-CBA293A4DFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A40B91A-091D-4486-AA79-BA24E2FA9AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
