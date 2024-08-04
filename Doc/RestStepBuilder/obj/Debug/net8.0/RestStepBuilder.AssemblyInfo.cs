@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestStepBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7c8214d25d7707aec8821a3c4ba368feb48b83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+235a18554b084d3de5c70279509e70475766e990")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestStepBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestStepBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
