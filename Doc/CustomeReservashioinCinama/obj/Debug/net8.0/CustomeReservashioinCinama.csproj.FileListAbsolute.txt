@@ -1,0 +1,5 @@
+F:\work\GithubSampleCode\Design-Patterns\Doc\CustomeReservashioinCinama\obj\Debug\net8.0\CustomeReservashioinCinama.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\GithubSampleCode\Design-Patterns\Doc\CustomeReservashioinCinama\obj\Debug\net8.0\CustomeReservashioinCinama.AssemblyInfoInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\CustomeReservashioinCinama\obj\Debug\net8.0\CustomeReservashioinCinama.AssemblyInfo.cs
+F:\work\GithubSampleCode\Design-Patterns\Doc\CustomeReservashioinCinama\obj\Debug\net8.0\CustomeReservashioinCinama.csproj.CoreCompileInputs.cache
+F:\work\GithubSampleCode\Design-Patterns\Doc\CustomeReservashioinCinama\obj\Debug\net8.0\CustomeReservashioinCinama.sourcelink.json

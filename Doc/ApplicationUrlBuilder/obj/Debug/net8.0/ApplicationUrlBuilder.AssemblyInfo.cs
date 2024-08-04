@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApplicationUrlBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69092b1cfe44cd00ff429d19cf2b0f73b41890e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9212c0388982c35dcd1d8f33b41593a234191f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApplicationUrlBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApplicationUrlBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

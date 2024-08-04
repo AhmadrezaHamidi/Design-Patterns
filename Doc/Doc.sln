@@ -5,19 +5,25 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{B20E86EC-ADA1-46BA-B0BD-B33B34817FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{B20E86EC-ADA1-46BA-B0BD-B33B34817FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPizza", "OrderPizza\OrderPizza.csproj", "{D6946A70-29A4-46F1-830C-9C43FC9AB28A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderPizza", "OrderPizza\OrderPizza.csproj", "{D6946A70-29A4-46F1-830C-9C43FC9AB28A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeComputer", "MakeComputer\MakeComputer.csproj", "{3AF5CB8C-456E-48B1-9017-6C83FC207427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeComputer", "MakeComputer\MakeComputer.csproj", "{3AF5CB8C-456E-48B1-9017-6C83FC207427}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationUrlBuilder", "ApplicationUrlBuilder\ApplicationUrlBuilder.csproj", "{1FA066E1-FC28-4311-85A7-7F1F3B4B0966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationUrlBuilder", "ApplicationUrlBuilder\ApplicationUrlBuilder.csproj", "{1FA066E1-FC28-4311-85A7-7F1F3B4B0966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedUrlBuilder", "AdvancedUrlBuilder\AdvancedUrlBuilder.csproj", "{C8706AE8-908A-4FDB-87B7-6C7B957F310B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedUrlBuilder", "AdvancedUrlBuilder\AdvancedUrlBuilder.csproj", "{C8706AE8-908A-4FDB-87B7-6C7B957F310B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestBuilder", "RestBuilder\RestBuilder.csproj", "{5DB74342-FCA5-479B-AD54-389ED637FFCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestBuilder", "RestBuilder\RestBuilder.csproj", "{5DB74342-FCA5-479B-AD54-389ED637FFCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestStepBuilder", "RestStepBuilder\RestStepBuilder.csproj", "{EB4765DC-BF55-4207-A93D-67357408E41A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestStepBuilder", "RestStepBuilder\RestStepBuilder.csproj", "{EB4765DC-BF55-4207-A93D-67357408E41A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeBuyilder", "CoffeBuyilder\CoffeBuyilder.csproj", "{1C3E0312-290B-4D67-B604-BBAA58AB1B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinamBuilder", "CinamBuilder\CinamBuilder.csproj", "{09AB4720-6319-4318-BABD-31EBCC39700D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomeReservashioinCinama", "CustomeReservashioinCinama\CustomeReservashioinCinama.csproj", "{1B2F3F2F-80A1-4425-B450-03C06E6FB14D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +59,18 @@ Global
 		{EB4765DC-BF55-4207-A93D-67357408E41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB4765DC-BF55-4207-A93D-67357408E41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB4765DC-BF55-4207-A93D-67357408E41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3E0312-290B-4D67-B604-BBAA58AB1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3E0312-290B-4D67-B604-BBAA58AB1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3E0312-290B-4D67-B604-BBAA58AB1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3E0312-290B-4D67-B604-BBAA58AB1B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AB4720-6319-4318-BABD-31EBCC39700D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB4720-6319-4318-BABD-31EBCC39700D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB4720-6319-4318-BABD-31EBCC39700D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AB4720-6319-4318-BABD-31EBCC39700D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2F3F2F-80A1-4425-B450-03C06E6FB14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2F3F2F-80A1-4425-B450-03C06E6FB14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2F3F2F-80A1-4425-B450-03C06E6FB14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2F3F2F-80A1-4425-B450-03C06E6FB14D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +83,9 @@ Global
 		{C8706AE8-908A-4FDB-87B7-6C7B957F310B} = {5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}
 		{5DB74342-FCA5-479B-AD54-389ED637FFCB} = {5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}
 		{EB4765DC-BF55-4207-A93D-67357408E41A} = {5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}
+		{1C3E0312-290B-4D67-B604-BBAA58AB1B97} = {5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}
+		{09AB4720-6319-4318-BABD-31EBCC39700D} = {5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}
+		{1B2F3F2F-80A1-4425-B450-03C06E6FB14D} = {5943ED9A-4B9F-439C-BAD1-21B380E3D6B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C997D096-FA34-4FB0-92C8-913D94C1ADC3}
