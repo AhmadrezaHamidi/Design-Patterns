@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6946A70-29A4-46F1-830C-9C43FC9AB28A}|OrderPizza\\OrderPizza.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\orderpizza\\domain\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6946A70-29A4-46F1-830C-9C43FC9AB28A}|OrderPizza\\OrderPizza.csproj|solutionrelative:orderpizza\\domain\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4BA13D5-C21D-44BA-8D76-8A4813052605}|NestedBuilder\\NestedBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\nestedbuilder\\domian\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BA13D5-C21D-44BA-8D76-8A4813052605}|NestedBuilder\\NestedBuilder.csproj|solutionrelative:nestedbuilder\\domian\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BA13D5-C21D-44BA-8D76-8A4813052605}|NestedBuilder\\NestedBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\nestedbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BA13D5-C21D-44BA-8D76-8A4813052605}|NestedBuilder\\NestedBuilder.csproj|solutionrelative:nestedbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3E849C-9176-42C4-8D24-17CF4232D26F}|CompositeBuilder\\CompositeBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\compositebuilder\\compositebuilder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C3E849C-9176-42C4-8D24-17CF4232D26F}|CompositeBuilder\\CompositeBuilder.csproj|solutionrelative:compositebuilder\\compositebuilder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3E849C-9176-42C4-8D24-17CF4232D26F}|CompositeBuilder\\CompositeBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\compositebuilder\\domian\\xmldocuentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3E849C-9176-42C4-8D24-17CF4232D26F}|CompositeBuilder\\CompositeBuilder.csproj|solutionrelative:compositebuilder\\domian\\xmldocuentbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3E849C-9176-42C4-8D24-17CF4232D26F}|CompositeBuilder\\CompositeBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\compositebuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3E849C-9176-42C4-8D24-17CF4232D26F}|CompositeBuilder\\CompositeBuilder.csproj|solutionrelative:compositebuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6946A70-29A4-46F1-830C-9C43FC9AB28A}|OrderPizza\\OrderPizza.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\orderpizza\\orderpizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D6946A70-29A4-46F1-830C-9C43FC9AB28A}|OrderPizza\\OrderPizza.csproj|solutionrelative:orderpizza\\orderpizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6946A70-29A4-46F1-830C-9C43FC9AB28A}|OrderPizza\\OrderPizza.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\orderpizza\\domain\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6946A70-29A4-46F1-830C-9C43FC9AB28A}|OrderPizza\\OrderPizza.csproj|solutionrelative:orderpizza\\domain\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09AB4720-6319-4318-BABD-31EBCC39700D}|CinamBuilder\\CinamBuilder.csproj|f:\\work\\githubsamplecode\\design-patterns\\doc\\cinambuilder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +142,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\NestedBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "NestedBuilder\\Program.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\NestedBuilder\\Program.cs",
+              "RelativeToolTip": "NestedBuilder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:31:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\NestedBuilder\\Domian\\User.cs",
+              "RelativeDocumentMoniker": "NestedBuilder\\Domian\\User.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\NestedBuilder\\Domian\\User.cs",
+              "RelativeToolTip": "NestedBuilder\\Domian\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:31:36.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlDocuentBuilder.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CompositeBuilder\\Domian\\XmlDocuentBuilder.cs",
+              "RelativeDocumentMoniker": "CompositeBuilder\\Domian\\XmlDocuentBuilder.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CompositeBuilder\\Domian\\XmlDocuentBuilder.cs",
+              "RelativeToolTip": "CompositeBuilder\\Domian\\XmlDocuentBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:59:20.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompositeBuilder.csproj",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CompositeBuilder\\CompositeBuilder.csproj",
+              "RelativeDocumentMoniker": "CompositeBuilder\\CompositeBuilder.csproj",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CompositeBuilder\\CompositeBuilder.csproj",
+              "RelativeToolTip": "CompositeBuilder\\CompositeBuilder.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T12:58:56.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CompositeBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "CompositeBuilder\\Program.cs",
+              "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CompositeBuilder\\Program.cs",
+              "RelativeToolTip": "CompositeBuilder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:58:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Pizza.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\OrderPizza\\Domain\\Pizza.cs",
               "RelativeDocumentMoniker": "OrderPizza\\Domain\\Pizza.cs",
@@ -130,38 +214,35 @@
               "RelativeToolTip": "OrderPizza\\Domain\\Pizza.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T11:00:37.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T11:00:37.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderPizza",
+              "DocumentIndex": 5,
+              "Title": "OrderPizza.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\OrderPizza\\OrderPizza.csproj",
               "RelativeDocumentMoniker": "OrderPizza\\OrderPizza.csproj",
               "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\OrderPizza\\OrderPizza.csproj",
               "RelativeToolTip": "OrderPizza\\OrderPizza.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-04T11:51:38.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:51:38.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CoffeBuyilder",
+              "DocumentIndex": 9,
+              "Title": "CoffeBuyilder.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CoffeBuyilder\\CoffeBuyilder.csproj",
               "RelativeDocumentMoniker": "CoffeBuyilder\\CoffeBuyilder.csproj",
               "ToolTip": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CoffeBuyilder\\CoffeBuyilder.csproj",
               "RelativeToolTip": "CoffeBuyilder\\CoffeBuyilder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-04T11:37:54.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:37:54.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CinamBuilder\\Class1.cs",
               "RelativeDocumentMoniker": "CinamBuilder\\Class1.cs",
@@ -169,12 +250,11 @@
               "RelativeToolTip": "CinamBuilder\\Class1.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAQwG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T11:13:33.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:13:33.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\CoffeBuyilder\\Class1.cs",
               "RelativeDocumentMoniker": "CoffeBuyilder\\Class1.cs",
@@ -182,12 +262,11 @@
               "RelativeToolTip": "CoffeBuyilder\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T11:11:50.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:11:50.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ReservationEntity.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestStepBuilder\\Domain\\ReservationEntity.cs",
               "RelativeDocumentMoniker": "RestStepBuilder\\Domain\\ReservationEntity.cs",
@@ -195,12 +274,11 @@
               "RelativeToolTip": "RestStepBuilder\\Domain\\ReservationEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T11:05:16.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:05:16.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CofeREservishan.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestStepBuilder\\Domain\\CofeREservishan.cs",
               "RelativeDocumentMoniker": "RestStepBuilder\\Domain\\CofeREservishan.cs",
@@ -208,12 +286,11 @@
               "RelativeToolTip": "RestStepBuilder\\Domain\\CofeREservishan.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T11:05:15.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:05:15.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "IHttpRequestBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestStepBuilder\\Domain\\IHttpRequestBuilder.cs",
               "RelativeDocumentMoniker": "RestStepBuilder\\Domain\\IHttpRequestBuilder.cs",
@@ -221,12 +298,11 @@
               "RelativeToolTip": "RestStepBuilder\\Domain\\IHttpRequestBuilder.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAUwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T13:32:44.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T13:32:44.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "RestStepBuilder.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestStepBuilder\\RestStepBuilder.csproj",
               "RelativeDocumentMoniker": "RestStepBuilder\\RestStepBuilder.csproj",
@@ -234,12 +310,11 @@
               "RelativeToolTip": "RestStepBuilder\\RestStepBuilder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T13:31:38.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T13:31:38.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestStepBuilder\\Program.cs",
               "RelativeDocumentMoniker": "RestStepBuilder\\Program.cs",
@@ -247,12 +322,11 @@
               "RelativeToolTip": "RestStepBuilder\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T13:31:35.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T13:31:35.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "HttpRequestBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestBuilder\\Domian\\HttpRequestBuilder.cs",
               "RelativeDocumentMoniker": "RestBuilder\\Domian\\HttpRequestBuilder.cs",
@@ -264,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\RestBuilder\\Program.cs",
               "RelativeDocumentMoniker": "RestBuilder\\Program.cs",
@@ -276,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "UrlBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\AdvancedUrlBuilder\\Domain\\UrlBuilder.cs",
               "RelativeDocumentMoniker": "AdvancedUrlBuilder\\Domain\\UrlBuilder.cs",
@@ -288,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "QueryStringBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\AdvancedUrlBuilder\\Domain\\QueryStringBuilder.cs",
               "RelativeDocumentMoniker": "AdvancedUrlBuilder\\Domain\\QueryStringBuilder.cs",
@@ -300,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\AdvancedUrlBuilder\\Program.cs",
               "RelativeDocumentMoniker": "AdvancedUrlBuilder\\Program.cs",
@@ -312,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "UrlBuilder.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\ApplicationUrlBuilder\\Domian\\UrlBuilder.cs",
               "RelativeDocumentMoniker": "ApplicationUrlBuilder\\Domian\\UrlBuilder.cs",
@@ -324,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "MakeComputer.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\MakeComputer\\MakeComputer.csproj",
               "RelativeDocumentMoniker": "MakeComputer\\MakeComputer.csproj",
@@ -332,12 +406,11 @@
               "RelativeToolTip": "MakeComputer\\MakeComputer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T12:38:25.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T12:38:25.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\ApplicationUrlBuilder\\Program.cs",
               "RelativeDocumentMoniker": "ApplicationUrlBuilder\\Program.cs",
@@ -349,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\MakeComputer\\Program.cs",
               "RelativeDocumentMoniker": "MakeComputer\\Program.cs",
@@ -361,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Computer.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\MakeComputer\\Domian\\Computer.cs",
               "RelativeDocumentMoniker": "MakeComputer\\Domian\\Computer.cs",
@@ -373,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\OrderPizza\\Program.cs",
               "RelativeDocumentMoniker": "OrderPizza\\Program.cs",
@@ -385,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "House.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\Builder\\Domain\\House.cs",
               "RelativeDocumentMoniker": "Builder\\Domain\\House.cs",
@@ -397,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Builder.csproj",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\Builder\\Builder.csproj",
               "RelativeDocumentMoniker": "Builder\\Builder.csproj",
@@ -405,12 +478,11 @@
               "RelativeToolTip": "Builder\\Builder.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T10:54:03.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T10:54:03.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "README.md",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\Builder\\README.md",
               "RelativeDocumentMoniker": "Builder\\README.md",
@@ -422,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\GithubSampleCode\\Design-Patterns\\Doc\\Builder\\Program.cs",
               "RelativeDocumentMoniker": "Builder\\Program.cs",

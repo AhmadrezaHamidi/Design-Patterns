@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeBuyilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9212c0388982c35dcd1d8f33b41593a234191f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4a3b4e263688722426104a133d024f9c972a024")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeBuyilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeBuyilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
